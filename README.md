@@ -35,6 +35,11 @@
     - instanceof 关键字
     - Object 类
     - 内部类
+- 战斗部分（进阶知识）
+    - 枚举 enum
+    - ArrayList 类
+    - 泛型
+    - 多线程
 - 法宝部分（其他知识）
     - 学了 Java 有能做什么？
     - [Git 的使用](./th33)
