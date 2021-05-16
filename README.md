@@ -15,6 +15,9 @@
     - 循环 while，for，do-while
     - 函数
     - 数组
+    - ArrayList 等容器类
+    - 枚举 enum
+    - 泛型
     - try...catch
     - 编译报错，运行报错，debug
 - 刷怪部分（面向对象）
@@ -36,9 +39,7 @@
     - Object 类
     - 内部类
 - 战斗部分（进阶知识）
-    - 枚举 enum
-    - ArrayList 类
-    - 泛型
+    - 网络编程
     - 多线程
 - 法宝部分（其他知识）
     - 学了 Java 有能做什么？
